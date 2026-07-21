@@ -114,15 +114,6 @@ Esto lee `renv.lock` e instala cada paquete en la versión exacta registrada, si
 - Datos SINCA: estación La Florida, Sistema de Información Nacional de Calidad del Aire (sinca.mma.gob.cl).
 - Shapefiles de límite urbano censal y Unidades Vecinales 2024, y de la División Político-Administrativa 2023 (regiones/comunas/provincias): IDE Chile.
 
-## Pendientes antes de publicar
-
-- `Tables/Tabla4_Moran_Global.docx` no está generada todavía — correr `18-TablaMoran.R` para producirla.
-- Hay un archivo `17- grafico para paper moran.R` dentro de `Data/Raw/SHP_APC2023_R07/`; no debería vivir ahí — moverlo a la raíz del repo (si es una versión válida del script 17) o eliminarlo si es una copia obsoleta.
-
 ## Licencia
 
 Código bajo licencia MIT (ver `LICENSE`). Los datos de la campaña se publican con fines de reproducibilidad del artículo; citar el paper al reutilizarlos.
-
-## Contacto
-
-Martín Soto Cabezas — Departamento de Salud Pública, Universidad de Talca.

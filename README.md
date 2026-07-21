@@ -4,7 +4,7 @@ Código y datos de la campaña de monitoreo móvil de material particulado fino 
 
 Este repositorio acompaña el artículo:
 
-> **[Gallardo et al. (año)]. [Título del artículo]. [Revista].** DOI: [pendiente]
+> *****
 
 Departamento de Salud Pública, Universidad de Talca.
 

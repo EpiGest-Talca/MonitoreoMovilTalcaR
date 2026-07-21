@@ -1,0 +1,6 @@
+Data/Raw/SHP_APC2023_R07/*.shp filter=lfs diff=lfs merge=lfs -text
+Data/Raw/SHP_APC2023_R07/*.dbf filter=lfs diff=lfs merge=lfs -text
+Data/Raw/DPA_2023/**/*.shp filter=lfs diff=lfs merge=lfs -text
+Data/Raw/DPA_2023/**/*.dbf filter=lfs diff=lfs merge=lfs -text
+Data/Processed/med.csv filter=lfs diff=lfs merge=lfs -text
+Data/Raw/DPA_2023/**/*.docx filter=lfs diff=lfs merge=lfs -text
